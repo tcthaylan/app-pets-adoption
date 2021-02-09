@@ -28,6 +28,7 @@ import {
 
 declare const global: {HermesInternal: null | {}};
 
+//teste
 const App = () => {
   return (
     <>
